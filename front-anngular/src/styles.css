@@ -1,0 +1,10 @@
+/* You can add global styles to this file, and also import other style files */
+input {
+    border-radius: 10px;
+}
+
+.btn-secondary {
+    border-radius: 5px;
+    background-color: #6c757da6;
+    width: 160px;
+}
